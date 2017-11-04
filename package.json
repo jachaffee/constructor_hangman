@@ -1,0 +1,22 @@
+{
+  "name": "constructor_hangman",
+  "version": "1.0.0",
+  "description": "Command line hangman game utilizing constructors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jachaffee/constructor_hangman.git"
+  },
+  "author": "Jacob Chaffee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jachaffee/constructor_hangman/issues"
+  },
+  "homepage": "https://github.com/jachaffee/constructor_hangman#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
